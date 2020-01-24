@@ -1,0 +1,2 @@
+00020002 keep # MediaStorageSOPClassUID
+00020003 anon # MediaStorageSOPInstanceUID
